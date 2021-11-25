@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import unittest
-from multiply import multiply
+from Multi import multiply
 
 class TestSum(unittest.TestCase):
     def test_1(self):
